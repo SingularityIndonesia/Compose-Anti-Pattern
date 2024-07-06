@@ -13,7 +13,7 @@ I've created this repository to gather patterns that may have detrimental side e
 Sometimes recomposition happens to the whole page and nobody have any idea why. It probably because of a lambda that capture states.
 see: [LamdaCaptureState.kt](composeApp/src/desktopMain/kotlin/topic/LamdaCaptureState.kt)
 
-## 4. I can't go back
+## 2. I can't go back
 Can't go back after navigate because state of the previous page is success(?) Clearing the state is not a good idea though it may works.
 [upcomming]
 
