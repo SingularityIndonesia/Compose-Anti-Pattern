@@ -7,3 +7,6 @@ However, with Jetpack Compose, we may not be able to do this as easily. This is 
 Solutions in functional programming often take the form of patterns rather than named objects. Therefore, pattern recognition is crucial. It's both simple and incredibly challenging.
 
 I've created this repository to gather patterns that may have detrimental side effects. While I call them "Anti Patterns," my goal is not to categorize them but rather to collect them to form knowledge and enhance pattern recognition skills, both for identifying harmful and beneficial patterns.
+
+## Contributing
+We truly appreciate your interest in contributing! Sharing your knowledge of patterns will be invaluable for everybody.
