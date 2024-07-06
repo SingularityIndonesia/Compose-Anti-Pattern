@@ -10,7 +10,7 @@ I've created this repository to gather patterns that may have detrimental side e
 
 # Topic
 ## 1. A Lambda that Captures State will trigger Recomposition.
-Sometimes recomposition happens to the whole page and nobody have any idea why. It probably because of a lambda that capture states.
+Sometimes recomposition happens to the whole page and nobody have any idea why. It probably because of a lambda that capture states. It might seems small but it's extreamly hard to find most of the time.
 see: [LamdaCaptureState.kt](composeApp/src/desktopMain/kotlin/topic/LamdaCaptureState.kt)
 
 ## 2. I can't go back
