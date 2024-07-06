@@ -21,4 +21,4 @@ Can't go back after navigate because state of the previous page is success(?) Cl
 We truly appreciate your interest in contributing! Sharing your knowledge of patterns will be invaluable for everybody. Please contribute!
 
 # Ask
-Feel free to share your problem in your jetpack compose project. You can create issue in this repository and ask for solutions. Together we will find the solutions.
+Feel free to share problems of your jetpack compose project. You can create issue in this repository and ask for solutions. Together we will find the solutions.
