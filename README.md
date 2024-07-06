@@ -10,6 +10,7 @@ I've created this repository to gather patterns that may have detrimental side e
 
 # Topic
 ## 1. A Lambda that Captures State will trigger Recomposition.
+see: [LamdaCaptureState.kt](composeApp/src/desktopMain/kotlin/topic/LamdaCaptureState.kt)
 
 ## Contributing
 We truly appreciate your interest in contributing! Sharing your knowledge of patterns will be invaluable for everybody. Please contribute!
